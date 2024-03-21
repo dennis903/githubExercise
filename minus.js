@@ -1,5 +1,6 @@
 function minus(a, b) {
-    return a - b;
+	return a - b;
 }
 
-console.log(add(1, 2));
+console.log(minus(1, 2));
+console.log(minus(1, 2));
