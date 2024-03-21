@@ -2,4 +2,9 @@ function minus(a, b) {
     return a - b;
 }
 
-console.log(add(1, 2));
+function minus2(a, b) {
+    return b - a;
+}
+
+console.log(minus(1, 2));
+console.log(minus(1, 2));
